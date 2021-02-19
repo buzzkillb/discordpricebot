@@ -32,3 +32,11 @@ THUGS:
     emoji: <:thugs_token:794300116562477056>
     lp: '0x9354caB0F1083135439B23aA6c364329e578F39a'
     from: streetswap
+HYPR:
+  token:
+    apikey: MNOP
+    contract: '0x03D6BD3d48F956D783456695698C407A46ecD54d'
+    icon: H 
+    emoji: <:hypr_token:812375824518873118>
+    lp: '0x3701cFE08a3f0b629dBcaEcebA773A8B4f0044E3'
+    from: streetswap
